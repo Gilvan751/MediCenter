@@ -130,4 +130,18 @@ nav a:hover {
 .banner_list li {
     display: flex;
     text-decoration: none;
+    padding-right: 40px;
+}
+table {
+    width: 100%;
+    padding-top: 20px;
+}
+td {
+    border-bottom: 1px solid #ccc;
+    border-collapse: collapse;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 12px;
+   
+   
 }
