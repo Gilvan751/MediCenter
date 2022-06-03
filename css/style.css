@@ -137,11 +137,20 @@ table {
     padding-top: 20px;
 }
 td {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #6988ca;
     border-collapse: collapse;
     padding-bottom: 10px;
     padding-top: 10px;
     font-size: 12px;
-   
-   
+   colspan:1px;   
+}
+#geral {
+    display: flex;
+    justify-content: center;
+}
+#geral section {
+    flex: 2;
+}
+#geral aside {
+    flex: 1;
 }
